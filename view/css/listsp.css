@@ -1,0 +1,9 @@
+.row .form-title{
+    margin-bottom: 20px;
+}
+form select{
+    height: 22px;
+}
+form select option{
+    font-size: 20px;
+}

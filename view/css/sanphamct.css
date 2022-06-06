@@ -1,0 +1,36 @@
+.box-title-ct{
+    background-color: rgb(240, 240, 240);
+    padding: 12px;
+    margin-top: 0;
+}
+.row-bt-sp{
+    border: 1px solid rgb(197, 197, 197);
+    border-radius: 5px;
+}
+.img{
+    margin-bottom: 16px;
+    margin-top: 16px;
+    text-align: center;
+}
+.box-content-3,.box-content-5{
+    border-top: 1px solid rgb(197, 197, 197);
+}
+.box-content-3 span{
+    font-weight: bold;
+}
+.box-content-3 span, .box-content-3 p{
+    margin-left: 20px;
+}
+.box-content-5 li{
+    margin: 15px;
+}
+.row-dm{
+    grid-gap: 30px;
+    margin-top: 0;
+}
+.row-dm .sp span{
+    font-weight: bold;
+}
+.row-dm .sp span, .row-dm .sp a p{
+    margin-left: 19px;
+}
