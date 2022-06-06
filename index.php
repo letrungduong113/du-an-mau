@@ -44,7 +44,7 @@
                 }
                 break;
             case 'dangky':
-                if (isset($_POST['dangky'])&&($_POST['dangky']>0)){
+                if (isset($_POST['dangky'])){
                     $email = $_POST['email'];
                     $user = $_POST['user'];
                     $pass = $_POST['pass'];
